@@ -1,0 +1,7 @@
+matplotlib==3.9.2
+matplotlib-inline==0.1.7
+mplsoccer==1.4.0
+pandas==2.2.2
+seaborn==0.13.2
+statsbombpy==1.14.0
+streamlit==1.38.0
